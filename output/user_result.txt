@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-11-24 18:39:32,url
+2024-11-25 06:26:10,url
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265001/1.m3u8$订阅源|IPv6
 CCTV-1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8?$订阅源|IPv6
@@ -26,6 +26,7 @@ CCTV-4,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/PLTV/1/224/3221231032/1.m3
 CCTV-4,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/PLTV/1/224/3221230948/1.m3u8$订阅源|IPv6
 CCTV-4,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw3970110376_2107001207/ott.mobaibox.com/PLTV/3/224/3221227378/index.m3u8?$订阅源|IPv6
 CCTV-4,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000503/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000056$订阅源|IPv6
+CCTV-4,http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000503$订阅源|IPv6
 CCTV-5,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1742716435_-463761116/ott.mobaibox.com/PLTV/3/224/3221227166/index.m3u8?$订阅源|IPv6
 CCTV-5,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1926342846_771017734/ott.mobaibox.com/PLTV/3/224/3221227640/index.m3u8?$订阅源|IPv6
 CCTV-5,http://[2409:8087:1a0a:df::4017]:80/wh7f454c46tw1517328845_1706942365/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8?icpid=88888888&RTS=1713968346&from=4&hms_devid=990&online=1713968346&vqe=3$订阅源|IPv6
@@ -37,7 +38,6 @@ CCTV-7,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw1534804996_666
 CCTV-7,http://[2409:8087:1a0a:df::400f]:80/wh7f454c46tw1639845910_217588519/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8?icpid=88888888&RTS=1713968468&from=4&hms_devid=771&online=1713968468&vqe=3$订阅源|IPv6
 CCTV-8,http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225795/main.m3u8$订阅源|IPv6
 CCTV-8,http://[2409:8087:1a0a:df::4036]:80/wh7f454c46tw1670555715_-98597522/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8?icpid=88888888&RTS=1713968499&from=4&hms_devid=1209&online=1713968499&vqe=3$订阅源|IPv6
-CCTV-8,http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000008$订阅源|IPv6
 CCTV-9,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw2468865118_1937404571/ott.mobaibox.com/PLTV/3/224/3221227659/index.m3u8?icpid=3&RTS=1674386879&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3$订阅源|IPv6
 CCTV-9,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw1536262155_328032765/ott.mobaibox.com/PLTV/3/224/3221227704/index.m3u8?$订阅源|IPv6
 CCTV-9,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw95099346_1105596677/ott.mobaibox.com/PLTV/3/224/3221225532/index.m3u8?$订阅源|IPv6
