@@ -32,6 +32,8 @@ Name: CCTV-1, URL: http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw15
 Name: CCTV-1, URL: http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw1750497522_339657307/ott.mobaibox.com/PLTV/3/224/3221227739/index.m3u8?icpid=3&RTS=1674386160&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: CCTV-1, URL: http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1750297731_174117004/ott.mobaibox.com/PLTV/3/224/3221227736/index.m3u8?icpid=3&RTS=1674386160&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: CCTV-1, URL: http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000001$订阅源, Date: None, Resolution: None, Response Time: 0 ms
+Name: CCTV-1, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$订阅源, Date: None, Resolution: None, Response Time: 0 ms
+Name: CCTV-1, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000001/index.m3u8?$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: CCTV-2, URL: http://[2409:8087:1a01:df::406f]:80/wh7f454c46tw1241164675_1575082505/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8?icpid=88888888&RTS=1713968070&from=4&hms_devid=692&prioritypopid=4&online=1713968070&vqe=3$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: CCTV-2, URL: http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000372/index.m3u8?$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: CCTV-2, URL: http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw1528922594_677066330/ott.mobaibox.com/PLTV/3/224/3221227708/index.m3u8?icpid=3&RTS=1674385939&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3$订阅源, Date: None, Resolution: None, Response Time: 0 ms
@@ -120,8 +122,10 @@ Name: 凤凰中文, URL: http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c
 Name: CHC家庭影院, URL: http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: CHC动作电影, URL: http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 黑莓电影, URL: http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
+Name: 黑莓电影, URL: http://[2409:8087:74d1:22::4]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&Ace$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 五星体育, URL: http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IAS$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 五星体育, URL: http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS$订阅源, Date: None, Resolution: None, Response Time: 0 ms
+Name: 五星体育, URL: http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 超级体育, URL: http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 精品体育, URL: http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 睛彩篮球, URL: http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
