@@ -45,6 +45,7 @@ Name: CCTV-3, URL: http://[2409:8087:1a01:df::4041]/TVOD/88888888/224/3221225799
 Name: CCTV-3, URL: http://[2409:8087:1a01:df::4041]:80/TVOD/88888888/224/3221225799/main.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: CCTV-3, URL: http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw3968988866_1321620950/ott.mobaibox.com/PLTV/3/224/3221227424/index.m3u8?icpid=3&RTS=1674379789&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: CCTV-3, URL: http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw3969211375_-1190792372/ott.mobaibox.com/PLTV/3/224/3221227623/index.m3u8?icpid=3&RTS=1674379789&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec12_80&popid=40&hms_devid=2040&prioritypopid=40&vqe=3$订阅源, Date: None, Resolution: None, Response Time: 0 ms
+Name: CCTV-3, URL: http://[2409:8087:74d1:22::4]:6410/270000001128/9900000003/index.m3u8?channel-id=newtv&Ace$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: CCTV-4, URL: http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw1530458601_-2138527565/ott.mobaibox.com/PLTV/3/224/3221225534/index.m3u8?$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: CCTV-4, URL: http://[2409:8087:1a0a:df::4032]:80/wh7f454c46tw1452344678_931674717/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8?icpid=88888888&RTS=1713968281&from=4&hms_devid=1143&online=1713968281&vqe=3$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: CCTV-4, URL: http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/PLTV/1/224/3221231032/1.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
@@ -91,7 +92,6 @@ Name: 广东卫视, URL: http://[2409:8087:74f0:22::6]:6410/270000001128/9900000
 Name: 广东卫视, URL: http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 广东卫视, URL: http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001032/index.m3u8?$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 广东卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw2335730844_336951628/ott.mobaibox.com/PLTV/3/224/3221228566/index.m3u8?icpid=3&RTS=1674459760&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3$订阅源, Date: None, Resolution: None, Response Time: 0 ms
-Name: 广东卫视, URL: http://[2409:8087:74d1:22::4]:6410/270000001128/9900000520/index.m3u8?channel-id=newtv&Ace$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 浙江卫视, URL: http://[2409:8087:1a01:df::4043]:80/TVOD/88888888/224/3221225959/main.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 湖南卫视, URL: http://[2409:8087:1a0a:df::402e]:80/wh7f454c46tw3107212859_-133726409/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8?icpid=88888888&RTS=1713969936&from=4&hms_devid=1103&online=1713969936&vqe=3$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 湖南卫视, URL: http://[2409:8087:1a0a:df::4018]:80/wh7f454c46tw3074498827_-624608810/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8?icpid=88888888&RTS=1713969903&from=4&hms_devid=990&online=1713969903&vqe=3$订阅源, Date: None, Resolution: None, Response Time: 0 ms
@@ -102,6 +102,7 @@ Name: 黑龙江卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/wh7f4
 Name: 黑龙江卫视, URL: http://[2409:8087:1a01:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 重庆卫视, URL: http://[2409:8087:1a0a:df::4039]:80/wh7f454c46tw3484210288_1514322028/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8?icpid=88888888&RTS=1713970313&from=4&hms_devid=1212&online=1713970313&vqe=3$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 东南卫视, URL: http://[2409:8087:1a01:df::4035]:80/TVOD/88888888/224/3221225950/main.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
+Name: 东南卫视, URL: http://[2409:8087:74d1:22::4]:6610/270000001128/9900000519/index.m3u8?channel-id=newtv&Ace$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 甘肃卫视, URL: http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gsws_4000.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 甘肃卫视, URL: http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225633/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 广西卫视, URL: http://[2409:8087:1a01:df::4047]:80/TVOD/88888888/224/3221226091/main.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
